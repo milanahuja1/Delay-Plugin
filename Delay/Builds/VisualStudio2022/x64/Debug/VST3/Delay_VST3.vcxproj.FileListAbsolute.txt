@@ -1,0 +1,1 @@
+C:\Users\Dhruv\Documents\GitHub\Delay-Plugin\Delay\Builds\VisualStudio2022\x64\Debug\VST3\Delay.dll
