@@ -28,9 +28,9 @@ void DelayAudioProcessorEditor::paint (juce::Graphics& g)
     // (Our component is opaque, so we must completely fill the background with a solid colour)
     g.fillAll (getLookAndFeel().findColour (juce::ResizableWindow::backgroundColourId));
 
-    g.setColour (juce::Colours::white);
+    g.setColour (juce::Colours::greenyellow);
     g.setFont (juce::FontOptions (15.0f));
-    g.drawFittedText ("Hi Milan", getLocalBounds(), juce::Justification::centred, 1);
+    g.drawFittedText ("Hi dhruv", getLocalBounds(), juce::Justification::centred, 1);
 }
 
 void DelayAudioProcessorEditor::resized()
